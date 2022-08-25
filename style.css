@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(90deg, paleturquoise, palegreen);
+}
+
+h1{
+    font-weight: bolder;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: gray;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+canvas{
+    border: 3px solid white;
+    background-color: #969a97;
+    border-radius: 20px;
+}
